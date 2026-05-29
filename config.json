@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "notifyualidate",
+        "uuid": 2729076,
+        "checksum": "qvv6ea"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": false,
+        "mode": "staging"
+    }
+}
